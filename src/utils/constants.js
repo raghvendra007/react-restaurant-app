@@ -39,6 +39,7 @@ export const RES_DATA = [
         lastMileTravel: 6.4,
         serviceability: "SERVICEABLE",
         slaString: "28 mins",
+
         lastMileTravelString: "6.4 km",
         iconType: "ICON_TYPE_EMPTY",
       },
