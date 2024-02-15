@@ -27,7 +27,7 @@ export const Body = () => {
 
   useEffect(() => {
     let newData =
-      responseData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
+      responseData?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants;
     console.log("body loads", newData);
     setResData(newData);
